@@ -1,0 +1,22 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Android build artifacts & cache
+**/build/
+**/.gradle/
+android-project/app/build/
+android-project/.gradle/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment & local secrets
+.env
+*.local

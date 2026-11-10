@@ -1,0 +1,1 @@
+/Users/admin/.gemini/config/rules/01-frontend-rules.md

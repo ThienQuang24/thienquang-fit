@@ -1,0 +1,1 @@
+/Users/admin/.gemini/config/rules/02-backend-rules.md

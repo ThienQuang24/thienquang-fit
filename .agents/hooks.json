@@ -1,0 +1,12 @@
+{
+  "project-rules-guard": {
+    "enabled": true,
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "/Users/admin/.gemini/config/scripts/session-start-guard.sh",
+        "timeout": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+/Users/admin/.gemini/config/rules/03-clean-code-zero-bloat.md
